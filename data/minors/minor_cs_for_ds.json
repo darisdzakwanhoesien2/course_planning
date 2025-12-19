@@ -1,0 +1,14 @@
+{
+  "minor_id": "minor_cs_for_ds",
+  "title": "Minor Computer Science for students of Data Science",
+  "ects": {
+    "minimum": 25,
+    "maximum": 60
+  },
+  "academic_year": "2025-2026",
+  "program_link": "https://opas.peppi.oulu.fi/en/offering/SA2025DATATOL/44879?period=2025-2026",
+  "courses": [
+    "811104P"
+  ],
+  "notes": ""
+}

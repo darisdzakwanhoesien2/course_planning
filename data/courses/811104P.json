@@ -1,0 +1,76 @@
+{
+  "course_id": "811104P",
+  "title": "Programming 1",
+  "period": "2025-2026",
+  "course_link": "https://opas.peppi.oulu.fi/en/course/811104P/10773?period=2025-2026",
+
+  "learning_outcomes": [
+    "Create simple working programs",
+    "Identify and use basic control structures",
+    "Understand modularity, tables, and information storage",
+    "Apply modular structures and data storage techniques",
+    "Find and fix errors in programs",
+    "Solve computational problems using abstraction and stepwise refinement",
+    "Explain the concept of recursion",
+    "Operate with binary and hexadecimal number systems",
+    "Document programs properly"
+  ],
+
+  "content": [
+    "Software design method (waterfall)",
+    "Problem solving",
+    "Stepwise refinement",
+    "Control structures",
+    "Modular programming",
+    "Data types",
+    "Arrays",
+    "Pointers",
+    "Character strings",
+    "Data structures",
+    "Storing data"
+  ],
+
+  "study_methods": [
+    "Programming assignments",
+    "Homework assignments",
+    "Learning assignments",
+    "Online exercises and teaching",
+    "Lecture videos",
+    "Moodle environment"
+  ],
+
+  "teaching_methods": {
+    "theory": {
+      "description": "Lecture videos and online learning (Finnish)",
+      "hours": 40
+    },
+    "exercises": {
+      "description": "Programming exercises",
+      "hours": 24
+    },
+    "self_study": {
+      "hours": 70
+    }
+  },
+
+  "learning_material": [
+    "Lecture videos in Moodle",
+    "Reading material in Moodle"
+  ],
+
+  "assessment": {
+    "type": "Continuous assessment",
+    "criteria": "Assignment scores + homework scores",
+    "final_exam": false,
+    "scale": "1-5 / FAIL"
+  },
+
+  "administrative": {
+    "language": "Finnish",
+    "level": "Basic Studies",
+    "subject": "Information Processing Science",
+    "person_in_charge": "Jouni Lappalainen"
+  },
+
+  "qualifications": "-"
+}
