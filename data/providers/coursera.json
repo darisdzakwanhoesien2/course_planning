@@ -1,0 +1,11 @@
+{
+  "provider_id": "coursera",
+  "name": "Coursera",
+  "type": "MOOC Platform",
+  "website": "https://www.coursera.org",
+  "credential_types": [
+    "Course",
+    "Specialization",
+    "Professional Certificate"
+  ]
+}

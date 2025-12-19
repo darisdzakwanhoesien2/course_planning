@@ -1,0 +1,63 @@
+{
+  "course_id": "812361A",
+  "title": "Information Systems Acquisition, Deployment and Management",
+  "ects": 5,
+  "academic_year": "2025-2026",
+
+  "availability": {
+    "periods": [3,4]
+  },
+
+  "learning_outcomes": [
+    "Describe the basics of the acquisition process",
+    "Recognize acquisition processes in the public sector",
+    "Describe how to manage information systems deployment in organizations",
+    "Create acquisition, deployment, and management policies",
+    "Create plans and processes to manage information systems risks",
+    "Understand recovery preparation and crisis continuity of information systems",
+    "Create policies for monitoring and controlling information systems with information security considered"
+  ],
+
+  "content": [
+    "Acquisition processes",
+    "Public sector acquisition processes",
+    "Information systems deployment",
+    "Organizational policy creation",
+    "Information system risks and information security"
+  ],
+
+  "study_methods": [
+    "Video lectures",
+    "Group work based on interviews",
+    "Student presentations",
+    "Independent literature study",
+    "Essay writing"
+  ],
+
+  "teaching_methods": {
+    "blended_teaching": {
+      "description": "Video lectures, tutoring, seminars, essays",
+      "hours": null
+    }
+  },
+
+  "assessment": {
+    "type": "Continuous assessment",
+    "criteria": "Exercise tasks, seminar presentation, essay",
+    "scale": "1-5 / FAIL",
+    "final_exam": false
+  },
+
+  "administrative": {
+    "languages": ["Finnish", "English"],
+    "level": "Intermediate Studies",
+    "subject": "Information Processing Science",
+    "person_in_charge": "Sami Pohjolainen"
+  },
+
+  "qualifications": {
+    "recommended_prerequisites": [
+      "Fundamentals of Information Systems"
+    ]
+  }
+}

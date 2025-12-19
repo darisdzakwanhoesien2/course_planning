@@ -1,0 +1,58 @@
+{
+  "course_id": "811325A",
+  "title": "Databases",
+  "ects": 5,
+
+  "availability": {
+    "periods": [3,4]
+  },
+
+  "learning_outcomes": [
+    "Apply relational database theory",
+    "Build quality relational databases",
+    "Use SQL queries",
+    "Store persistent objects",
+    "Design databases using conceptual modelling",
+    "Normalize and assess database quality"
+  ],
+
+  "content": [
+    "Conceptual modelling",
+    "Relational model",
+    "SQL",
+    "Database quality",
+    "Object persistence"
+  ],
+
+  "study_methods": [
+    "Lectures",
+    "Exercises",
+    "Computer exercises",
+    "Weekly assignments"
+  ],
+
+  "teaching_methods": {
+    "lectures": { "hours": 24 },
+    "exercises": { "hours": 16 },
+    "computer_exercises": { "hours": 25 },
+    "self_study": { "hours": 68 }
+  },
+
+  "assessment": {
+    "type": "Continuous evaluation",
+    "criteria": "All parts must be passed",
+    "scale": "1-5 / FAIL",
+    "final_exam": false
+  },
+
+  "administrative": {
+    "languages": ["Finnish", "English"],
+    "level": "Intermediate Studies",
+    "subject": "Information Processing Science",
+    "person_in_charge": "Juha Iisakka"
+  },
+
+  "qualifications": {
+    "required_prerequisites": ["Programming 1"]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "external_course_id": "coursera_pm_foundations",
+  "provider": "coursera",
+  "title": "Foundations of Project Management",
+  "program": "coursera_google_pm",
+  "estimated_hours": 12,
+  "skills": [
+    "Project Management Fundamentals",
+    "Professional Practices"
+  ]
+}

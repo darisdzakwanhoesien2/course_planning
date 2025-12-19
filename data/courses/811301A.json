@@ -1,0 +1,59 @@
+{
+  "course_id": "811301A",
+  "title": "Software Modeling and Design",
+  "ects": 5,
+
+  "availability": {
+    "periods": [1,2]
+  },
+
+  "learning_outcomes": [
+    "Utilize software design concepts",
+    "Apply UML to describe software views",
+    "Produce static and dynamic models",
+    "Analyze class diagrams and implement them",
+    "Apply best practices and design patterns"
+  ],
+
+  "content": [
+    "UML methodology",
+    "Use case, class, sequence, and state diagrams",
+    "Reverse engineering",
+    "Object-oriented principles",
+    "Design patterns",
+    "Design best practices"
+  ],
+
+  "study_methods": [
+    "Exercises",
+    "Moodle quizzes",
+    "Home assignment"
+  ],
+
+  "teaching_methods": {
+    "lectures": { "hours": 30 },
+    "exercises": { "hours": 14 },
+    "self_study": { "hours": 90 }
+  },
+
+  "assessment": {
+    "type": "Points-based assessment",
+    "criteria": "Mandatory tasks and weighted points",
+    "scale": "1-5 / FAIL",
+    "final_exam": false
+  },
+
+  "administrative": {
+    "languages": ["Finnish", "English"],
+    "level": "Intermediate Studies",
+    "subject": "Information Processing Science",
+    "person_in_charge": "Pertti Karhapää"
+  },
+
+  "qualifications": {
+    "required_prerequisites": [
+      "Programming 2",
+      "Requirements Engineering"
+    ]
+  }
+}

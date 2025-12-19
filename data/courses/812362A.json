@@ -1,0 +1,59 @@
+{
+  "course_id": "812362A",
+  "title": "Business Process Management and Modelling",
+  "ects": 5,
+  "academic_year": "2025-2026",
+
+  "availability": {
+    "periods": [3]
+  },
+
+  "learning_outcomes": [
+    "Describe phases and challenges of business process management",
+    "Explain relationships between business processes",
+    "Use IT process planning frameworks",
+    "Identify process-related problems",
+    "Apply KPI thinking in process management",
+    "Model business processes individually and in teams",
+    "Identify common process modelling mistakes"
+  ],
+
+  "content": [
+    "Business process management stages",
+    "Process-strategy alignment",
+    "Process modelling syntax",
+    "Modelling tools",
+    "IT process frameworks",
+    "Business process KPIs"
+  ],
+
+  "study_methods": [
+    "Lecture assignments",
+    "Individual and team modelling assignments",
+    "Peer reviews"
+  ],
+
+  "teaching_methods": {
+    "lectures": { "hours": 62 },
+    "exercises": { "hours": 14 },
+    "modelling_assignments": { "hours": 57 }
+  },
+
+  "learning_material": [
+    "Harmon, Paul (2014/2019). Business Process Change"
+  ],
+
+  "assessment": {
+    "type": "Continuous assessment",
+    "criteria": "Lecture and software assignments",
+    "scale": "1-5 / FAIL",
+    "final_exam": false
+  },
+
+  "administrative": {
+    "languages": ["English"],
+    "level": "Intermediate Studies",
+    "subject": "Information Processing Science",
+    "person_in_charge": "Karin Väyrynen"
+  }
+}

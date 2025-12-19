@@ -1,0 +1,62 @@
+{
+  "course_id": "812364A",
+  "title": "Data Analytics and Business Intelligence",
+  "ects": 5,
+  "academic_year": "2025-2026",
+
+  "availability": {
+    "periods": [4]
+  },
+
+  "learning_outcomes": [
+    "Understand key terminology in data analytics and business intelligence",
+    "Recognize the value of data analysis skills",
+    "Explain the importance of data-driven decision making",
+    "Understand data gathering, analysis, and communication steps",
+    "Utilize data analytics and business intelligence tools"
+  ],
+
+  "content": [
+    "Fundamental analytics concepts",
+    "Data gathering methods",
+    "Data preparation and modeling",
+    "Data analysis and visualization",
+    "Communication of analytical findings",
+    "Analytics and BI tools"
+  ],
+
+  "study_methods": [
+    "Weekly video lectures",
+    "Reading materials",
+    "Reflective tasks",
+    "Self-study packages",
+    "Mid-course and final assignments",
+    "Peer reviews"
+  ],
+
+  "teaching_methods": {
+    "online_instruction": {
+      "description": "Fully online instruction and assignments",
+      "hours": null
+    }
+  },
+
+  "learning_material": [
+    "Moodle materials and external sources",
+    "Harvard Business Review (2018). HBR Guide to Data Analytics Basics for Managers"
+  ],
+
+  "assessment": {
+    "type": "Continuous assessment",
+    "criteria": "Reflection tasks, self-study packages, peer review, assignments",
+    "scale": "1-5 / FAIL",
+    "final_exam": false
+  },
+
+  "administrative": {
+    "languages": ["English"],
+    "level": "Intermediate Studies",
+    "subject": "Information Processing Science",
+    "person_in_charge": "Sami Pohjolainen"
+  }
+}

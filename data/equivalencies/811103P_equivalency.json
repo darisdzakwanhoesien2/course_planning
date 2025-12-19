@@ -1,0 +1,25 @@
+{
+  "oulu_course_id": "811103P",
+  "equivalency_type": "full_or_partial",
+
+  "accepted_external_programs": [
+    {
+      "program_id": "coursera_google_pm",
+      "coverage": "partial",
+      "rationale": "Covers core software process, project management, agile practices, and professional skills",
+      "required_units": [
+        "coursera_pm_foundations",
+        "coursera_pm_initiation",
+        "coursera_pm_planning",
+        "coursera_pm_agile"
+      ],
+      "estimated_hours_match": 70,
+      "ects_equivalent_estimate": 3
+    }
+  ],
+
+  "notes": [
+    "Final approval subject to faculty decision",
+    "Capstone course recommended but not required"
+  ]
+}

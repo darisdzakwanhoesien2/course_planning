@@ -1,0 +1,36 @@
+{
+  "program_id": "coursera_google_pm",
+  "provider": "coursera",
+  "title": "Google Project Management Professional Certificate",
+  "credential_type": "Professional Certificate",
+  "url": "https://www.coursera.org/professional-certificates/google-project-management",
+  "level": "Beginner",
+  "languages": ["English"],
+  "duration": {
+    "months": 6,
+    "hours_estimated": 140
+  },
+  "instructor": "Google Career Certificates",
+  "skills": [
+    "Project Management",
+    "Agile Project Management",
+    "Requirements Analysis",
+    "Stakeholder Management",
+    "Risk Management",
+    "Scrum",
+    "Backlogs"
+  ],
+  "courses": [
+    "coursera_pm_foundations",
+    "coursera_pm_initiation",
+    "coursera_pm_planning",
+    "coursera_pm_execution",
+    "coursera_pm_agile",
+    "coursera_pm_capstone",
+    "coursera_pm_ai_job_search"
+  ],
+  "certificate_outcomes": [
+    "Employer-recognized certificate",
+    "Preparation for CAPM® exam"
+  ]
+}

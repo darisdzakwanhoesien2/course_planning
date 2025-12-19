@@ -1,0 +1,50 @@
+{
+  "course_id": "521141P",
+  "title": "Elementary Programming",
+  "ects": 5,
+
+  "availability": {
+    "periods": [1, 2]
+  },
+
+  "learning_outcomes": [
+    "Solve problems computationally",
+    "Understand programming fundamentals",
+    "Use Python programming basics",
+    "Implement programs independently",
+    "Find programming resources online"
+  ],
+
+  "content": [
+    "Python programming basics",
+    "Problem solving through coding",
+    "Practical programming tasks"
+  ],
+
+  "study_methods": [
+    "Learning assignments",
+    "Programming exercises",
+    "Programming exam",
+    "Final project"
+  ],
+
+  "teaching_methods": {
+    "lectures": { "hours": 7 },
+    "exercise_groups": { "hours": 28 },
+    "independent_study": { "hours": 100 }
+  },
+
+  "assessment": {
+    "type": "Task-based assessment",
+    "criteria": "Completed tasks determine grade",
+    "scale": "1-5 / FAIL",
+    "final_exam": true
+  },
+
+  "administrative": {
+    "languages": ["Finnish", "English"],
+    "level": "Basic Studies",
+    "subject": "Computer Science and Engineering",
+    "person_in_charge": "Mika Oja"
+  }
+}
