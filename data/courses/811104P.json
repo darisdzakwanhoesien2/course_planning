@@ -4,6 +4,10 @@
   "period": "2025-2026",
   "course_link": "https://opas.peppi.oulu.fi/en/course/811104P/10773?period=2025-2026",
 
+  "availability": {
+    "periods": [1, 2]
+  },
+
   "learning_outcomes": [
     "Create simple working programs",
     "Identify and use basic control structures",
@@ -40,29 +44,15 @@
   ],
 
   "teaching_methods": {
-    "theory": {
-      "description": "Lecture videos and online learning (Finnish)",
-      "hours": 40
-    },
-    "exercises": {
-      "description": "Programming exercises",
-      "hours": 24
-    },
-    "self_study": {
-      "hours": 70
-    }
+    "theory": { "hours": 40 },
+    "exercises": { "hours": 24 },
+    "self_study": { "hours": 70 }
   },
-
-  "learning_material": [
-    "Lecture videos in Moodle",
-    "Reading material in Moodle"
-  ],
 
   "assessment": {
     "type": "Continuous assessment",
-    "criteria": "Assignment scores + homework scores",
-    "final_exam": false,
-    "scale": "1-5 / FAIL"
+    "scale": "1-5 / FAIL",
+    "final_exam": false
   },
 
   "administrative": {
